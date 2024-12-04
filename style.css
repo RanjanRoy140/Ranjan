@@ -1,0 +1,33 @@
+h1{
+   font-size: 50px;    
+}
+body{
+    .poppins-thin {
+        font-family: "Poppins", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+      }
+    }
+ .name-highlight{
+    color: orange;
+ }
+ .half-width{
+   width: 40%;
+   float: left;
+   margin-left: 2%;
+   padding-left: 2%;
+ }
+ .half-width img{
+   width: 100%;
+ }
+ #mintu{
+   color: brown;
+   background-image: linear-gradient(45deg red crimson );
+   font-size: 50px;
+   text-decoration: none ;
+   background-color: aqua;
+   border-radius: 20px;
+   padding: 10px 10px;
+   font-weight: 900px;
+   
+ }
