@@ -1,0 +1,62 @@
+body{
+    margin: 0%;
+    font-family: "Parkinsans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+.dwarf{
+    font-size: 20px;
+}
+.r{
+    width: 20%;
+    float: right;
+    padding-left: 2%;
+    margin-left: 2%;
+}
+.r img{
+    width: 90%;
+}
+.sip{
+    border-radius: 10%;
+    text-decoration: none;
+    background-image: linear-gradient(50deg blue violet );
+    background-color: aqua;
+    padding: 2% 10%;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+h2{
+    font-size: 40px;
+    color: fuchsia;
+}
+a{
+    text-decoration: none;
+}
+.u{
+    background-image: url(images/rani.jpg);
+    background-repeat: no repeat;
+}
+.v{
+    background-image: url(images/rani.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+p{
+    color: white;
+}
+.t{
+    color: deeppink;
+}
+.m{
+    color: darkturquoise;
+}
