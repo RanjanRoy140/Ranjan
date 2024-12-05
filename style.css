@@ -1,13 +1,19 @@
+body{
+  margin: 0%;
+  // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.outfit-<uniquifier> {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+}
 h1{
    font-size: 50px;    
 }
-body{
-    .poppins-thin {
-        font-family: "Poppins", sans-serif;
-        font-weight: 100;
-        font-style: normal;
-      }
-    }
  .name-highlight{
     color: orange;
  }
