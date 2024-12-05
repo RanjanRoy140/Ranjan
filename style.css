@@ -31,3 +31,10 @@ body{
    font-weight: 900px;
    
  }
+ section{
+  height: 500px;
+  background-color: bisque;
+ }
+ h1{
+  font-size: 40px;
+ }
